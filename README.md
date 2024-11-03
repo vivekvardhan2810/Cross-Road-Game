@@ -53,8 +53,5 @@ Please review our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing.
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
-## Contact Information
-For questions or feedback, you can reach out to the maintainers at [email@example.com](mailto:email@example.com).
-
 ## Acknowledgments
 - Thanks to all contributors who have helped improve this project.
