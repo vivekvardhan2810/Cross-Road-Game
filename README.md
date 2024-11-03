@@ -19,6 +19,8 @@ The Road Crossing Game is a thrilling challenge where you guide a character acro
 
 - Web browser
 
+![image](https://github.com/user-attachments/assets/5051141f-dea6-4634-a29b-0df8c4bdf334)
+
 ## Installation
 
 1. Clone the repository:
