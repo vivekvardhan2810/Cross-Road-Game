@@ -4,9 +4,9 @@
 The Road Crossing Game is a thrilling challenge where you guide a character across a busy road, avoiding moving vehicles to reach the other side safely. Each successful crossing earns points, and the game gets harder as you advance.
 
 ## Features
-- Guide a character across a busy road
-- Avoid moving vehicles
-- Earn points for successful crossings
+- Guide a character across a busy road.
+- Avoid moving vehicles.
+- Earn points for successful crossings.
 - Increasing difficulty as the game progresses
 
 ## Technologies Used
